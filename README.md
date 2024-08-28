@@ -35,5 +35,7 @@ De volta ao seu tempo, Bruno refletia sobre o que havia visto. A tecnologia, por
 -----------------xxxx--------------------------
 
 Foi um processo rápido, com resultado decente. 
-O gemini por exemplo forneceu apenas respostas caneed.
+O gemini por exemplo forneceu apenas respostas caneed:
+![image](https://github.com/user-attachments/assets/2cd757ea-3cc2-418d-a582-3700565878d4)
+
 A AI generativa realmente pode ajudar no estudo e no processo criativo, basta agir com ética e bom senso.
