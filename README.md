@@ -34,7 +34,13 @@ De volta ao seu tempo, Bruno refletia sobre o que havia visto. A tecnologia, por
 
 -----------------xxxx--------------------------
 
-Foi um processo rápido, com resultado decente. 
+Foi um processo rápido, com resultado decente.
+![image](https://github.com/user-attachments/assets/16ceb7ed-579c-43dc-b021-b69ca2daed97)
+
+
+![image](https://github.com/user-attachments/assets/31a870ed-aa16-43cd-9663-0a66cfceb89b)
+
+
 O gemini por exemplo forneceu apenas respostas caneed:
 ![image](https://github.com/user-attachments/assets/2cd757ea-3cc2-418d-a582-3700565878d4)
 
