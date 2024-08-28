@@ -32,4 +32,8 @@ Bruno observava a cena, com um misto de admiração e tristeza. A tecnologia hav
 
 De volta ao seu tempo, Bruno refletia sobre o que havia visto. A tecnologia, por si só, não era a solução para os problemas da humanidade. Era preciso, acima de tudo, um avanço social e moral. A busca por um futuro melhor deveria estar pautada na compaixão, na justiça e na igualdade. A humanidade precisava aprender a usar a tecnologia para o bem comum, para construir um mundo mais justo e sustentável para todos. 
 
+-----------------xxxx--------------------------
 
+Foi um processo rápido, com resultado decente. 
+O gemini por exemplo forneceu apenas respostas caneed.
+A AI generativa realmente pode ajudar no estudo e no processo criativo, basta agir com ética e bom senso.
